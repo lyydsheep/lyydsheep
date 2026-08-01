@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm faiz 👋
+# Hi, I'm liyrds 👋
 
-Open-source contributor · Developer tooling · Rust / Python
+AI explorer · Open-source contributor · Human–AI collaboration
 
 <i>青春DP少年はWA先輩の夢を見ない。</i>
 
@@ -18,36 +18,23 @@ Open-source contributor · Developer tooling · Rust / Python
 
 ## About me
 
-- 🛠️ Building and improving developer tools
-- 🦀 Interested in Rust, Python, LSP, and type checking
-- 🌱 Making small, reviewable contributions to open-source projects
-- 📍 Based in Asia/Shanghai
-
-## Open-source contributions
-
-- [Pyrefly](https://github.com/facebook/pyrefly) — Python type checking and LSP
-- [Trivy](https://github.com/aquasecurity/trivy) — container and software security
-- [AIRI](https://github.com/moeru-ai/airi) — open-source AI companion platform
-
-## Featured pull requests
-
-- [Pyrefly #4384](https://github.com/facebook/pyrefly/pull/4384) — shared invalidation lifecycle
-- [Pyrefly #4394](https://github.com/facebook/pyrefly/pull/4394) — fuzzy local completion and auto-import
-- [Pyrefly #4395](https://github.com/facebook/pyrefly/pull/4395) — legacy type-parameter deduplication
-
-## Tech stack
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,git,githubactions,linux&perline=5" alt="Rust, Python, Git, GitHub Actions, Linux" />
-  </a>
-</p>
+- 🤖 Exploring AI, intelligent agents, and human–AI collaboration
+- 🧠 Interested in generative AI, multimodal models, and AI-assisted creation
+- ✨ Building and experimenting with useful, human-centered AI experiences
 
 ## Current focus
 
-- Developer experience and language tooling
-- Practical LSP and static-analysis improvements
-- Contributing focused fixes with tests
+- AI-native development workflows
+- Practical applications of generative and multimodal AI
+- Turning experiments into useful products
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyydsheep/lyydsheep/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyydsheep/lyydsheep/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lyydsheep/lyydsheep/output/github-snake.svg" />
+</picture>
 
 <div align="center">
 
